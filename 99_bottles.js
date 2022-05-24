@@ -1,7 +1,5 @@
 function bottleSong(int) {
     let numberOfBeers = int;
-    let pluralWord = "bottles";
-    let singularWord = "bottle";
 for (i = numberOfBeers; i > 0; i--){
     
         if (i > 2){
@@ -21,4 +19,4 @@ for (i = numberOfBeers; i > 0; i--){
 
   };
   
-  bottleSong(4);
+  bottleSong(12);
