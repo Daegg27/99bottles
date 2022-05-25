@@ -19,4 +19,4 @@ for (i = numberOfBeers; i > 0; i--){
 
   };
   
-  bottleSong(12);
+  bottleSong(66);
